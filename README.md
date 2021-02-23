@@ -47,5 +47,5 @@ This Repository contains solution files for the Ruby language practice in [Hacke
 | Strings Iteration | Strings | [String Iteration.rb](Solutions/String%20Iteration.rb) | Easy |
 | Strings Methods I | Strings | [String Method 1.rb](Solutions/String%20Method%201.rb) | Easy |
 | Strings Methods II | Strings | [String Method 2.rb](Solutions/String%20Method%202.rb) | Easy |
-\n
+&nbsp;
 ### For License File check out [License File](./LICENSE)
