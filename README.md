@@ -6,7 +6,7 @@ This Repository contains solution files for the Ruby language practice in [Hacke
 
 | Challenge    | Sub-Domain     | Solution File     | Difficulty    |
 | :----------: | :------------: | :-----------: | :----------------: |
-| Hello HackerRank! | Introduction | [Hello HackerRank.rb](Solutions/Hello%20Hackrrank.rb) | Easy |
+| Hello HackerRank! | Introduction | [Hello HackerRank.rb](Solutions/Hello%20Hackerrank.rb) | Easy |
 | Everything Is An Object | Introduction | [Everything is an Object.rb](Solutions/Everything%20is%20an%20Object.rb) | Easy |
 | Object Methods | Introduction | [Object Methods.rb](Solutions/Object%20Methods.rb) | Easy |
 | Object Method Parameters | Introduction | [Object Method Parameters.rb](Solutions/Object%20Method%20Parameter.rb) | Easy |
